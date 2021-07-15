@@ -10,7 +10,6 @@ An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) w
 }
 \source{
 \url{https://github.com/OR-Dept-Environmental-Quality/wic-base/blob/main/documentation/technical-overview-of-the-wic.pdf}
-For a menu of WIC repos:
 
 \url{https://or-dept-environmental-quality.github.io/wic/}
 }
@@ -18,6 +17,10 @@ For a menu of WIC repos:
 impactFactors
 }
 \description{
-For an introduction to WIC, including data dictionaries:
+For an introduction to WIC, including data dictionaries, see the
+SOURCES below
+}
+\details{
+Some details
 }
 \keyword{datasets}

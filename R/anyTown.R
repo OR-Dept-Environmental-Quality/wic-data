@@ -1,7 +1,10 @@
 #' massProfiles data for the Anytown example
 #'
-#' For an introduction to WIC, including data dictionaries:
+#' For an introduction to WIC, including data dictionaries, see the
+#' SOURCES below
+#'
+#' some details
+#'
 #' @source \url{https://github.com/OR-Dept-Environmental-Quality/wic-base/blob/main/documentation/technical-overview-of-the-wic.pdf}
-#' For a menu of WIC repos:
 #' @source \url{https://or-dept-environmental-quality.github.io/wic/}
 "anyTown"
