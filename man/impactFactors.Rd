@@ -18,6 +18,6 @@ For a menu of WIC repos:
 impactFactors
 }
 \description{
-For an introduction to WIC:
+For an introduction to WIC, including data dictionaries:
 }
 \keyword{datasets}

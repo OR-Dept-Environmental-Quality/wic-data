@@ -17,6 +17,6 @@ For a menu of WIC repos:
 anyTown
 }
 \description{
-For an introduction to WIC:
+For an introduction to WIC, including data dictionaries:
 }
 \keyword{datasets}
