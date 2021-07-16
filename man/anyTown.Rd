@@ -10,16 +10,14 @@ An object of class \code{data.frame} with 12 rows and 7 columns.
 \source{
 \url{https://github.com/OR-Dept-Environmental-Quality/wic-base/blob/main/documentation/technical-overview-of-the-wic.pdf}
 
+\url{https://github.com/OR-Dept-Environmental-Quality/wic-base/blob/main/documentation/example-applications-of-the-wic.pdf}
+
 \url{https://or-dept-environmental-quality.github.io/wic/}
 }
 \usage{
 anyTown
 }
 \description{
-For an introduction to WIC, including data dictionaries, see the
-SOURCES below
-}
-\details{
-some details
+For documentation on WIC, see the items listed under SOURCE below
 }
 \keyword{datasets}
