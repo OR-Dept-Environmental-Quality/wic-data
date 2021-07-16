@@ -1,6 +1,6 @@
 Package: wicdata
 Title: Impact Factors And Example Data For The Waste Impact Calculator
-Version: 0.9
+Version: 1.0
 Authors@R: person("Martin", "Brown", email = "Martin.Brown@state.or.us",
                   role = c("aut", "cre"))
 Description: Provides the impact factor data needed to use the 
