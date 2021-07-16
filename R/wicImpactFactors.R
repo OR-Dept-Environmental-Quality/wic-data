@@ -8,4 +8,4 @@
 #'
 #' @source \url{https://github.com/OR-Dept-Environmental-Quality/wic-base/blob/main/documentation/technical-overview-of-the-wic.pdf}
 #' @source \url{https://or-dept-environmental-quality.github.io/wic/}
-"impactFactors"
+"wicImpactFactors"

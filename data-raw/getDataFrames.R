@@ -4,7 +4,7 @@
 # links to those repos)
 
 # From the wic-base repo: the impactFactors table
-impactFactors <-
+wicImpactFactors <-
   readRDS(
     file="../wic-base/impactFactors/distributable/impactFactors.RData"
   )
@@ -22,5 +22,5 @@ anyTown <-
 # [coming soon]
 
 # save these data frames as parts of the data package
-usethis::use_data(impactFactors, overwrite = TRUE)
+usethis::use_data(wicImpactFactors, overwrite = TRUE)
 usethis::use_data(anyTown, overwrite = TRUE)
