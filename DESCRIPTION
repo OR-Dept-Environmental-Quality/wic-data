@@ -1,7 +1,7 @@
 Package: wicdata
 Title: Impact Factors And Example Data For The Waste Impact Calculator
-Version: 1.0
-Authors@R: person("Martin", "Brown", email = "Martin.Brown@state.or.us",
+Version: 1.2
+Authors@R: person("Martin", "Brown", email = "Martin.Brown@deq.oregon.gov",
                   role = c("aut", "cre"))
 Description: Provides the impact factor data needed to use the 
     Waste Impact Calculator (WIC) framework, along with example solid waste
